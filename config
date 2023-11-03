@@ -1,5 +1,6 @@
 {
-    "subShowClose":false,    
+        "showSub":false,    
+"subShowClose":false,    
     "showAD": false,
     "appStore_ver": "1.0.0",
     "appStore_id": "1628740358",
