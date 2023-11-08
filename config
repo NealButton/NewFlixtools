@@ -1,5 +1,5 @@
 {   
-    "showSub":true,    
+    "showSub":false,    
     "subShowClose":true,    
     "showAD": true,
     "appStore_ver": "1.0.0",
