@@ -1,6 +1,7 @@
 {   
     "showSub":false,    
     "showAD": false,
+    "play_num": 3,
     "appStore_ver": "1.0.0",
     "appStore_id": "1628740358",
     "app_id": "265",
